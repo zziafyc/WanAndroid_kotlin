@@ -1,4 +1,4 @@
-package com.zziafyc.wanandroid
+package com.zziafyc.wanandroidkotlin
 
 import org.junit.Test
 
