@@ -1,4 +1,4 @@
-package com.cxz.wanandroid.rx.scheduler
+package com.zziafyc.wanandroidkotlin.rx.scheduler
 
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers

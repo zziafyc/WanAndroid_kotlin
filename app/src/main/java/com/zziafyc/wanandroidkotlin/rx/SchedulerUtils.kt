@@ -1,6 +1,6 @@
 package com.zziafyc.wanandroidkotlin.rx
 
-import com.cxz.wanandroid.rx.scheduler.IoMainScheduler
+import com.zziafyc.wanandroidkotlin.rx.scheduler.IoMainScheduler
 
 /**
  * Created by chenxz on 2018/4/21.
